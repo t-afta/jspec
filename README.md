@@ -1,1 +1,1 @@
-Update Roboflow segmentation Docs pages (#8094)
+Add docstrings to new HUB functions (#7576)
