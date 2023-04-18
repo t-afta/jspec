@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Compare plt.get_backend() in lowercase (#8409)
