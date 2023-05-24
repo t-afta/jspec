@@ -1,1 +1,1 @@
-ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
