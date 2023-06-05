@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+Docs updates and improvements (#8183)
