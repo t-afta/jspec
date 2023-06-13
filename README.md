@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Add CoreML Docs Integrations Page (#8063)
