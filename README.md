@@ -1,1 +1,1 @@
-fix print val map
+Fix docker.yaml double-quote version bug (#7452)
