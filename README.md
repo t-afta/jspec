@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Add TFLite Edge TPU Docs Integrations Page  (#8900)
