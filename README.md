@@ -1,1 +1,1 @@
-Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
