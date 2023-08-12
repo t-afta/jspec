@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Fix Multi-GPU resume bug (#7328)
