@@ -1,1 +1,1 @@
-update README
+Clean up unused imgsz (#7771)
