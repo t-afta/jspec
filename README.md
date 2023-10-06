@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
