@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Add C++ Classify inference example (#6868)
