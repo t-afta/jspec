@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Rename model_id to model.id (#8447)
