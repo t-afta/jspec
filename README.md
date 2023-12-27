@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+Expand Model method type hinting (#8279)
