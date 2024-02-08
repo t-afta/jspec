@@ -1,1 +1,1 @@
-ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
