@@ -1,1 +1,1 @@
-fix resume training
+added badges (#45)
