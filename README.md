@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Fix Yolo 8.0.206 scale bug (#7821)
