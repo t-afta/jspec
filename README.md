@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+Update H1 in Explorer API docs (#7813)
