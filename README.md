@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
