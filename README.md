@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
