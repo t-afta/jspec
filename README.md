@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+ultralytics 8.1.31 NCNN and CLIP updates (#9235)
