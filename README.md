@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Clean up unused imgsz (#7771)
