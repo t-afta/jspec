@@ -1,1 +1,1 @@
-Add TensorBoard Docs integrations page (#7248)
+Add PR Summary step to Ultralytics Actions (#7675)
